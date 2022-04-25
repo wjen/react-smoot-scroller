@@ -1,1 +1,1 @@
-# react-smoot-scroller
+# react-smooth-scroller
